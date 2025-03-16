@@ -1,7 +1,7 @@
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
-
+Some Changes
 A calculator which calculates simple interest given principal, annual rate of interest and time period in years.
 
 ```
@@ -14,4 +14,4 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
-This is a test change for fixing a typo.
+This is a test change for fixing a typo in this file.
